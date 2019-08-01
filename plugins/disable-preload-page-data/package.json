@@ -1,0 +1,8 @@
+{
+  "name": "disable-preload-page-data",
+  "version": "0.1.0",
+  "description": "Removes preloaded page_data.json files from Gatsby output.",
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  }
+}
